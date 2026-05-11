@@ -1,4 +1,4 @@
-<img width="613" height="359" alt="image" src="https://github.com/user-attachments/assets/7dabc067-b459-46fb-999b-126a8e27cf7e" /># EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
+
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
